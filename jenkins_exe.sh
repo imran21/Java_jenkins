@@ -1,4 +1,5 @@
 #! /bin/bash
 
-cd /home/imran
+cd /home
 ls
+java Hello
