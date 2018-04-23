@@ -1,4 +1,7 @@
 #! /bin/bash
 
-cd /home/imran
+cd /root/git_jenkins_work
 ls
+javac Hello.java
+java Hello
+
